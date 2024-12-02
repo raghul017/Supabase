@@ -1,6 +1,6 @@
 "use client";
 
-import { motion } from "framer-motion";
+import { motion } from "motion/react";
 import { Database, Lock, Zap, Code2 } from "lucide-react";
 import React from "react";
 
